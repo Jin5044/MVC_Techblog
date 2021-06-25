@@ -18,7 +18,7 @@
 
 - [This Repository](https://github.com/Jin5044/MVC_Techblog)
 
-- [Deployed site via Heroku](https://tech-blog-106.herokuapp.com/) 
+- [Deployed site via Heroku](https://jnduatitechblog.herokuapp.com/) 
 
 ## Usage:
 
@@ -27,12 +27,6 @@ The next virulal blog posting site! As previously stated, this application is de
 ## Examples
 Log In Page
 ![login](/public/images/login.jpg)
-
-Dashboard for not logged-in users:
-![dashboard](/public/images/dashboard.jpg)
-
-Single Post View:
-![single post](/public/images/single-post.jpg)
 
 Create a new post:
 ![new post](/public/images/new-post.jpg)
@@ -52,7 +46,7 @@ Testing completed using InsomniaCore, Checked for typos and bugs
 * Sequelize
 
 
-- [Deployed zsite via Heroku](https://tech-blog-106.herokuapp.com/) 
+- [Deployed zsite via Heroku](https://jnduatitechblog.herokuapp.com/) 
 
 
 
